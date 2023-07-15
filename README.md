@@ -6,6 +6,8 @@
 
 ![Gustavo GitHub](https://github-readme-stats.vercel.app/api?username=Gustavosilvanodasilva&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavosilvanodasilva)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias usadas
 
 <div style="display: inline_block"><br/>
