@@ -7,6 +7,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5532984106120)
 
 ![Gustavo GitHub](https://github-readme-stats.vercel.app/api?username=Gustavosilvanodasilva&show_icons=true&theme=dracula)
+
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavosilvanodasilva)](https://github.com/anuraghazra/github-readme-stats)
 
 
