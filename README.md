@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_slvn/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5532984106120)
 
-![Gustavo GitHub](https://github-readme-stats.vercel.app/api?username=gustavosilvanodasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Gustavo GitHub]([https://github-readme-stats.vercel.app/api?username=gustavosilvanodasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github.com/Gustavosilvanodasilva))
 
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvanodasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
